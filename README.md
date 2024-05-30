@@ -4,15 +4,16 @@
 
 
 
-<img src="./public/preview.gif" >
+![切換 Layer](./public/preview01.gif)
+![切換圖層和 Marker](./public/preview02.gif)
 
 ## 功能
 
 - 右上
   - 切換 Layer 
-  - 顯示那些圖層( user / location )
+  - 顯示那些圖層 ( user / location )
 - 左上
-  - 顯示那些 Marker( store / station )
+  - 顯示那些 Marker ( store / station )
 
 ## 使用
 
